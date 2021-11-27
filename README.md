@@ -1,4 +1,4 @@
-# Mission To Mars
+# Mission to Mars
 ## Project overview:
 The purpose of this project is to build a web application that scrapes new data every time we press a button. The designed web page will scrape websites for information regarding mars planet and will display this information in a single HTML page containing information about new articles (headings and paragraphs), and a Mars planet facts table. Plus, all four Mars’s hemisphere images are included as well as the titles of those images. Finally, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images. To do this we use:
 -	**Chrome Developer** tools **(DevTools)** to identify **HTML** components.
