@@ -1,6 +1,7 @@
 from flask import Flask, render_template, redirect, url_for
 from flask_pymongo import PyMongo
 import scraping
+from flask import (url_for, current_app as app)    
 
 app = Flask(__name__)
 # Use flask_pymongo to set up mongo connection
